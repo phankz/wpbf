@@ -2,7 +2,7 @@
 # WORDPRESS BRUTEFORCE
 
 
-* git clone [https://github.com/BrebesBlackXploit/wpbf](https://github.com/phankz/wpbf)https://github.com/phankz/wpbf
+* git clone [https://github(https://github.com/phankz/wpbf)https://github.com/phankz/wpbf
 * cd wpbf
 * bash t.sh
 
